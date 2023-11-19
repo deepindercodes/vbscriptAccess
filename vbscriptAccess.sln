@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "vbscriptAccess", ".", "{3ED996E6-9BE7-4A52-A25F-0C2F200DEE73}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50016"
+		Debug.AspNetCompiler.PhysicalPath = "..\vbscriptAccess\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50016\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50016"
+		Release.AspNetCompiler.PhysicalPath = "..\vbscriptAccess\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50016\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50016"
+		SlnRelativePath = "..\vbscriptAccess\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ED996E6-9BE7-4A52-A25F-0C2F200DEE73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ED996E6-9BE7-4A52-A25F-0C2F200DEE73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {306C5F26-BB01-4A8D-A73E-452F7C8639E7}
+	EndGlobalSection
+EndGlobal
